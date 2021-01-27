@@ -1,4 +1,5 @@
-# PortofolioV1
+# PortofolioV1 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+
 ### LIVE DEMO : https://sabdadev.github.io/PortofolioV1/
 
 To clone using HTTPS:
